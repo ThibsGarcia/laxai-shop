@@ -8,7 +8,7 @@ export default [
 "image": {
 "mobile": "./assets/product-yx1-earphones/mobile/image-product.jpg",
 "tablet": "./assets/product-yx1-earphones/tablet/image-product.jpg",
-"desktop": "src/THIBS/starter-code/assets/product-yx1-earphones/desktop/image-product.jpg",
+"desktop": "/image-yx1.jpg",
 },
 "category": "Earphones",
 "categoryImage": {
@@ -96,7 +96,7 @@ export default [
 "image": {
 "mobile": "./assets/product-xx59-headphones/mobile/image-product.jpg",
 "tablet": "./assets/product-xx59-headphones/tablet/image-product.jpg",
-"desktop": "src/THIBS/starter-code/assets/product-xx59-headphones/desktop/image-product.jpg"
+"desktop": "/image-xx59.jpg"
 },
 "category": "Headphones",
 "categoryImage": {
@@ -180,7 +180,7 @@ export default [
 "image": {
 "mobile": "./assets/product-xx99-mark-one-headphones/mobile/image-product.jpg",
 "tablet": "./assets/product-xx99-mark-one-headphones/tablet/image-product.jpg",
-"desktop": "src/THIBS/starter-code/assets/product-xx99-mark-one-headphones/desktop/image-product.jpg"
+"desktop": "/image-xx99-mark-one.jpg"
 },
 "category": "Headphones",
 "categoryImage": {
@@ -264,7 +264,7 @@ export default [
 "image": {
 "mobile": "./assets/product-xx99-mark-two-headphones/mobile/image-product.jpg",
 "tablet": "./assets/product-xx99-mark-two-headphones/tablet/image-product.jpg",
-"desktop": "src/THIBS/starter-code/assets/product-xx99-mark-two-headphones/desktop/image-product.jpg"
+"desktop": "/image-xx99-mark-two.jpg"
 },
 "category": "Headphones",
 "categoryImage": {
@@ -352,7 +352,7 @@ export default [
 "image": {
 "mobile": "./assets/product-zx7-speaker/mobile/image-product.jpg",
 "tablet": "./assets/product-zx7-speaker/tablet/image-product.jpg",
-"desktop": "src/THIBS/starter-code/assets/product-zx7-speaker/desktop/image-product.jpg"
+"desktop": "/image-zx7-speaker.jpg"
 },
 "category": "Speakers",
 "categoryImage": {
@@ -440,7 +440,7 @@ export default [
 "image": {
 "mobile": "./assets/product-zx9-speaker/mobile/image-product.jpg",
 "tablet": "./assets/product-zx9-speaker/tablet/image-product.jpg",
-"desktop": "src/THIBS/starter-code/assets/product-zx9-speaker/desktop/image-product.jpg"
+"desktop": "/image-zx9-speaker.jpg"
 },
 "category": "Speakers",
 "categoryImage": {
